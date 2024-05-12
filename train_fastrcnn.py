@@ -168,10 +168,6 @@ def inference():
     print("Prediction Map: ", predictions_map)
 
 
-
-
-
-
 #images, bboxes = load_dataset()
 #train(images, bboxes)
 inference()
